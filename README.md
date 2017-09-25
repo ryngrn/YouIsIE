@@ -1,4 +1,11 @@
-<h1 align="center">You Is IE</h1>
+```
+_____.___.              .___         .______________
+\__  |   | ____  __ __  |   | ______ |   \_   _____/
+ /   |   |/  _ \|  |  \ |   |/  ___/ |   ||    __)_ 
+ \____   (  <_> )  |  / |   |\___ \  |   ||        \
+ / ______|\____/|____/  |___/____  > |___/_______  /
+ \/                              \/              \/ 
+ ```
 <p align="center">Quick browser sniffer to provide class hooks for CSS.</p>
 
 ## Prerequisites
